@@ -1,7 +1,7 @@
 import '../styles/index.css';
 
-function MyApp({ Component, pageProps }) {
+function LaxStats({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
 
-export default MyApp;
+export default LaxStats;
