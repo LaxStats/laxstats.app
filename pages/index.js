@@ -46,7 +46,7 @@ export default function Home() {
                     <a href="#" aria-label="Home">
                       <img
                         className="h-8 w-auto sm:h-10"
-                        src="https://tailwindui.com/img/logos/workflow-mark-on-white.svg"
+                        src="/lax-stats-logo.svg"
                         alt="Logo"
                       />
                     </a>
@@ -124,7 +124,7 @@ export default function Home() {
                     <div>
                       <img
                         className="h-8 w-auto"
-                        src="https://tailwindui.com/img/logos/workflow-mark-on-white.svg"
+                        src="/lax-stats-logo.svg"
                         alt=""
                       />
                     </div>

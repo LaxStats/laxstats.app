@@ -1,0 +1,14 @@
+name = "laxstats"
+type = "webpack"
+account_id = "c440c3584c546bcb6ca3766d9cd58c1e"
+workers_dev = false
+zone_id = "c0ec42ba1c5c09b224d77535725635ce"
+route = "https://laxstats.app/*"
+
+[site]
+bucket = "./out"
+entry-point = "workers-site"
+
+
+
+
